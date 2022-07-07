@@ -10,7 +10,7 @@ const projects = [
         name: "製作個人網站？",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
-        link: "https://github.com",
+        link: "http://localhost:3000/",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
